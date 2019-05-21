@@ -1,4 +1,5 @@
 package com.txb.sort.utils;
+//突然出现了bug，只要ctrl+A,ctrl+X,ctrl+V就修复了
 /**
  * 实现冒泡排序
  * @author 13125
